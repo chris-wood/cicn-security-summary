@@ -37,7 +37,29 @@ references to ongoing research that attempts to address these problems.
 
 # Introduction
 
-XXX
+# Adversaries 
+
+- malicious consumers, malicious producers, malicious routers
+- distributed or localized
+- on or off path
+
+# Forwarding Attacks
+
+- content poisoning 
+- cache poisaoning
+
+# DoS attacks
+- interest flooding (random, stragglers)
+- expensive ops
+
+# Routing Attacks
+
+- on-path attacks and namespace hijacking
+
+# Privacy Attacks
+
+- cache privacy attacks 
+- frequency analysis attacks
 
 # Security Considerations
 
